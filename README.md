@@ -10,3 +10,4 @@ My leetcode profile is https://leetcode-cn.com/u/jeremy-liu/
 | [292. Nim 游戏](https://leetcode-cn.com/problems/nim-game/)                                                            | 数学           | [Go](https://github.com/Ksloveyuan/leetcode/blob/main/292_go.md) |
 | [524. 通过删除字母匹配到字典里最长单词](https://leetcode-cn.com/problems/longest-word-in-dictionary-through-deleting/) | 双指针         | [Go](https://github.com/Ksloveyuan/leetcode/blob/main/524_go.md) |
 | [650. 只有两个键的键盘](https://leetcode-cn.com/problems/2-keys-keyboard/)                                             | 动态规划、数学 | [Go](https://github.com/Ksloveyuan/leetcode/blob/main/650_go.md) |
+| [673. 最长递增子序列的个数](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/)                | 动态规划、LIS  | [Go](https://github.com/Ksloveyuan/leetcode/blob/main/673_go.md) |
