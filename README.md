@@ -10,6 +10,7 @@ My leetcode profile is https://leetcode-cn.com/u/jeremy-liu/
 | [212. 单词搜索 II](https://leetcode-cn.com/problems/word-search-ii/)                                                   | 字典树、DFS    | [Go](https://github.com/Ksloveyuan/leetcode/blob/main/212_go.md) |
 | [292. Nim 游戏](https://leetcode-cn.com/problems/nim-game/)                                                            | 数学           | [Go](https://github.com/Ksloveyuan/leetcode/blob/main/292_go.md) |
 | [326. 3 的幂](https://leetcode-cn.com/problems/power-of-three/)                                                        | 数学           | [Go](https://github.com/Ksloveyuan/leetcode/blob/main/326_go.md) |
+| [371. 两整数之和](https://leetcode-cn.com/problems/sum-of-two-integers/)                                               | 位运算         | [Go](https://github.com/Ksloveyuan/leetcode/blob/main/371_go.md) |
 | [430. 扁平化多级双向链表](https://leetcode-cn.com/problems/flatten-a-multilevel-doubly-linked-list/)                   | 链表           | [Go](https://github.com/Ksloveyuan/leetcode/blob/main/430_go.md) |
 | [524. 通过删除字母匹配到字典里最长单词](https://leetcode-cn.com/problems/longest-word-in-dictionary-through-deleting/) | 双指针         | [Go](https://github.com/Ksloveyuan/leetcode/blob/main/524_go.md) |
 | [583. 两个字符串的删除操作](https://leetcode-cn.com/problems/delete-operation-for-two-strings/)                        | 动态规划、LCS  | [Go](https://github.com/Ksloveyuan/leetcode/blob/main/583_go.md) |
