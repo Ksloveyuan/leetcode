@@ -8,6 +8,7 @@ My leetcode profile is https://leetcode-cn.com/u/jeremy-liu/
 | [58. 最后一个单词的长度](https://leetcode-cn.com/problems/length-of-last-word/)                                        | 字符串           |  [Go](https://github.com/Ksloveyuan/leetcode/blob/main/58_go.md)  |
 | [162. 寻找峰值](https://leetcode-cn.com/problems/find-peak-element/)                                                   | 二分             | [Go](https://github.com/Ksloveyuan/leetcode/blob/main/162_go.md)  |
 | [166. 分数到小数](https://leetcode-cn.com/problems/fraction-to-recurring-decimal/)                                     | 数学、哈希表     | [Go](https://github.com/Ksloveyuan/leetcode/blob/main/166_go.md)  |
+| [187. 重复的 DNA 序列](https://leetcode-cn.com/problems/repeated-dna-sequences/)                                       | 字符串、哈希表   | [Go](https://github.com/Ksloveyuan/leetcode/blob/main/187_go.md)  |
 | [212. 单词搜索 II](https://leetcode-cn.com/problems/word-search-ii/)                                                   | 字典树、DFS      | [Go](https://github.com/Ksloveyuan/leetcode/blob/main/212_go.md)  |
 | [292. Nim 游戏](https://leetcode-cn.com/problems/nim-game/)                                                            | 数学             | [Go](https://github.com/Ksloveyuan/leetcode/blob/main/292_go.md)  |
 | [326. 3 的幂](https://leetcode-cn.com/problems/power-of-three/)                                                        | 数学             | [Go](https://github.com/Ksloveyuan/leetcode/blob/main/326_go.md)  |
