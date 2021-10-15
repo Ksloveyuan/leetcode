@@ -6,6 +6,7 @@ My leetcode profile is https://leetcode-cn.com/u/jeremy-liu/
 | :--------------------------------------------------------------------------------------------------------------------- | :--------------- | :-------------------------------------------------------------------: |
 | [面试题 01.05. 一次编辑](https://leetcode-cn.com/problems/one-away-lcci/)                                              | 字符串           | [Go](https://github.com/Ksloveyuan/leetcode/blob/main/pb_01.01_go.md) |
 | [36. 有效的数独](https://leetcode-cn.com/problems/valid-sudoku/)                                                       | 数组             |    [Go](https://github.com/Ksloveyuan/leetcode/blob/main/36_go.md)    |
+| [38. 外观数列](https://leetcode-cn.com/problems/count-and-say/)                                                        | 字符串           |    [Go](https://github.com/Ksloveyuan/leetcode/blob/main/38_go.md)    |
 | [58. 最后一个单词的长度](https://leetcode-cn.com/problems/length-of-last-word/)                                        | 字符串           |    [Go](https://github.com/Ksloveyuan/leetcode/blob/main/58_go.md)    |
 | [162. 寻找峰值](https://leetcode-cn.com/problems/find-peak-element/)                                                   | 二分             |   [Go](https://github.com/Ksloveyuan/leetcode/blob/main/162_go.md)    |
 | [166. 分数到小数](https://leetcode-cn.com/problems/fraction-to-recurring-decimal/)                                     | 数学、哈希表     |   [Go](https://github.com/Ksloveyuan/leetcode/blob/main/166_go.md)    |
