@@ -14,6 +14,7 @@ My leetcode profile is https://leetcode-cn.com/u/jeremy-liu/
 | [187. 重复的 DNA 序列](https://leetcode-cn.com/problems/repeated-dna-sequences/)                                       | 字符串、哈希表     |   [Go](https://github.com/Ksloveyuan/leetcode/blob/main/187_go.md)    |
 | [212. 单词搜索 II](https://leetcode-cn.com/problems/word-search-ii/)                                                   | 字典树、DFS        |   [Go](https://github.com/Ksloveyuan/leetcode/blob/main/212_go.md)    |
 | [292. Nim 游戏](https://leetcode-cn.com/problems/nim-game/)                                                            | 数学               |   [Go](https://github.com/Ksloveyuan/leetcode/blob/main/292_go.md)    |
+| [299. 猜数字游戏](https://leetcode-cn.com/problems/bulls-and-cows/)                                                    | 哈希表、计数       |   [Go](https://github.com/Ksloveyuan/leetcode/blob/main/299_go.md)    |
 | [326. 3 的幂](https://leetcode-cn.com/problems/power-of-three/)                                                        | 数学               |   [Go](https://github.com/Ksloveyuan/leetcode/blob/main/326_go.md)    |
 | [371. 两整数之和](https://leetcode-cn.com/problems/sum-of-two-integers/)                                               | 位运算             |   [Go](https://github.com/Ksloveyuan/leetcode/blob/main/371_go.md)    |
 | [430. 扁平化多级双向链表](https://leetcode-cn.com/problems/flatten-a-multilevel-doubly-linked-list/)                   | 链表               |   [Go](https://github.com/Ksloveyuan/leetcode/blob/main/430_go.md)    |
