@@ -27,4 +27,5 @@ My leetcode profile is https://leetcode-cn.com/u/jeremy-liu/
 | [650. 只有两个键的键盘](https://leetcode-cn.com/problems/2-keys-keyboard/)                                             | 动态规划、数学     |   [Go](https://github.com/Ksloveyuan/leetcode/blob/main/650_go.md)    |
 | [673. 最长递增子序列的个数](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/)                | 动态规划、LIS      |   [Go](https://github.com/Ksloveyuan/leetcode/blob/main/673_go.md)    |
 | [725. 分隔链表](https://leetcode-cn.com/problems/split-linked-list-in-parts/)                                          | 链表               |   [Go](https://github.com/Ksloveyuan/leetcode/blob/main/725_go.md)    |
+| [1218. 最长定差子序列](https://leetcode-cn.com/problems/longest-arithmetic-subsequence-of-given-difference/)           | 哈希表、动态规划   |   [Go](https://github.com/Ksloveyuan/leetcode/blob/main/1218_go.md)   |
 | [1436. 旅行终点站](https://leetcode-cn.com/problems/destination-city/)                                                 | 哈希表             |   [Go](https://github.com/Ksloveyuan/leetcode/blob/main/1436_go.md)   |
