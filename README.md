@@ -20,6 +20,7 @@ My leetcode profile is https://leetcode-cn.com/u/jeremy-liu/
 | [430. 扁平化多级双向链表](https://leetcode-cn.com/problems/flatten-a-multilevel-doubly-linked-list/)                   | 链表               |   [Go](https://github.com/Ksloveyuan/leetcode/blob/main/430_go.md)    |
 | [476. 数字的补数](https://leetcode-cn.com/problems/number-complement/)                                                 | 位运算             |   [Go](https://github.com/Ksloveyuan/leetcode/blob/main/476_go.md)    |
 | [482. 密钥格式化](https://leetcode-cn.com/problems/license-key-formatting/)                                            | 字符串             |   [Go](https://github.com/Ksloveyuan/leetcode/blob/main/482_go.md)    |
+| [520. 检测大写字母](https://leetcode-cn.com/problems/detect-capital/)                                                  | 字符串             |   [Go](https://github.com/Ksloveyuan/leetcode/blob/main/520_go.md)    |
 | [524. 通过删除字母匹配到字典里最长单词](https://leetcode-cn.com/problems/longest-word-in-dictionary-through-deleting/) | 双指针             |   [Go](https://github.com/Ksloveyuan/leetcode/blob/main/524_go.md)    |
 | [575. 分糖果](https://leetcode-cn.com/problems/distribute-candies/)                                                    | 贪心               |   [Go](https://github.com/Ksloveyuan/leetcode/blob/main/575_go.md)    |
 | [583. 两个字符串的删除操作](https://leetcode-cn.com/problems/delete-operation-for-two-strings/)                        | 动态规划、LCS      |   [Go](https://github.com/Ksloveyuan/leetcode/blob/main/583_go.md)    |
