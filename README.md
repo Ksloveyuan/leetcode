@@ -27,6 +27,7 @@ My leetcode profile is https://leetcode-cn.com/u/jeremy-liu/
 | [563. 二叉树的坡度](https://leetcode-cn.com/problems/binary-tree-tilt/)                                                | 后序遍历           |   [Go](https://github.com/Ksloveyuan/leetcode/blob/main/563_go.md)    |
 | [575. 分糖果](https://leetcode-cn.com/problems/distribute-candies/)                                                    | 贪心               |   [Go](https://github.com/Ksloveyuan/leetcode/blob/main/575_go.md)    |
 | [583. 两个字符串的删除操作](https://leetcode-cn.com/problems/delete-operation-for-two-strings/)                        | 动态规划、LCS      |   [Go](https://github.com/Ksloveyuan/leetcode/blob/main/583_go.md)    |
+| [594. 最长和谐子序列](https://leetcode-cn.com/problems/longest-harmonious-subsequence/)                                | 双指针、哈希表     |   [Go](https://github.com/Ksloveyuan/leetcode/blob/main/594_go.md)    |
 | [639. 解码方法 II](https://leetcode-cn.com/problems/decode-ways-ii/)                                                   | 动态规划、字符串   |   [Go](https://github.com/Ksloveyuan/leetcode/blob/main/639_go.md)    |
 | [650. 只有两个键的键盘](https://leetcode-cn.com/problems/2-keys-keyboard/)                                             | 动态规划、数学     |   [Go](https://github.com/Ksloveyuan/leetcode/blob/main/650_go.md)    |
 | [673. 最长递增子序列的个数](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/)                | 动态规划、LIS      |   [Go](https://github.com/Ksloveyuan/leetcode/blob/main/673_go.md)    |
