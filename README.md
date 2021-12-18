@@ -20,6 +20,7 @@ My leetcode profile is https://leetcode-cn.com/u/jeremy-liu/
 | [371. 两整数之和](https://leetcode-cn.com/problems/sum-of-two-integers/)                                               | 位运算             |   [Go](https://github.com/Ksloveyuan/leetcode/blob/main/371_go.md)    |
 | [383. 赎金信](https://leetcode-cn.com/problems/ransom-note/)                                                           | 哈希表、计数       |   [Go](https://github.com/Ksloveyuan/leetcode/blob/main/383_go.md)    |
 | [397. 整数替换](https://leetcode-cn.com/problems/integer-replacement/)                                                 | 回溯、记忆化搜索   |   [Go](https://github.com/Ksloveyuan/leetcode/blob/main/397_go.md)    |
+| [419. 甲板上的战舰](https://leetcode-cn.com/problems/battleships-in-a-board/)                                          | DFS、扫描          |   [Go](https://github.com/Ksloveyuan/leetcode/blob/main/419_go.md)    |
 | [430. 扁平化多级双向链表](https://leetcode-cn.com/problems/flatten-a-multilevel-doubly-linked-list/)                   | 链表               |   [Go](https://github.com/Ksloveyuan/leetcode/blob/main/430_go.md)    |
 | [438. 找到字符串中所有字母异位词](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/)                     | 双指针             |   [Go](https://github.com/Ksloveyuan/leetcode/blob/main/438_go.md)    |
 | [476. 数字的补数](https://leetcode-cn.com/problems/number-complement/)                                                 | 位运算             |   [Go](https://github.com/Ksloveyuan/leetcode/blob/main/476_go.md)    |
