@@ -45,3 +45,4 @@ My leetcode profile is https://leetcode-cn.com/u/jeremy-liu/
 | [1218. 最长定差子序列](https://leetcode-cn.com/problems/longest-arithmetic-subsequence-of-given-difference/)           | 哈希表、动态规划   |   [Go](https://github.com/Ksloveyuan/leetcode/blob/main/1218_go.md)   |
 | [1345. 跳跃游戏 IV](https://leetcode-cn.com/problems/jump-game-iv/)                                                    | 哈希表、BFS        |   [Go](https://github.com/Ksloveyuan/leetcode/blob/main/1345_go.md)   |
 | [1436. 旅行终点站](https://leetcode-cn.com/problems/destination-city/)                                                 | 哈希表             |   [Go](https://github.com/Ksloveyuan/leetcode/blob/main/1436_go.md)   |
+| [1706. 球会落何处](https://leetcode-cn.com/problems/where-will-the-ball-fall/)                                         | 模拟               |   [Go](https://github.com/Ksloveyuan/leetcode/blob/main/1706_go.md)   |
