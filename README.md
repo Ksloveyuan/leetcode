@@ -20,6 +20,7 @@ My leetcode profile is https://leetcode-cn.com/u/jeremy-liu/
 | [326. 3 的幂](https://leetcode-cn.com/problems/power-of-three/)                                                        | 数学               |   [Go](https://github.com/Ksloveyuan/leetcode/blob/main/326_go.md)    |
 | [371. 两整数之和](https://leetcode-cn.com/problems/sum-of-two-integers/)                                               | 位运算             |   [Go](https://github.com/Ksloveyuan/leetcode/blob/main/371_go.md)    |
 | [383. 赎金信](https://leetcode-cn.com/problems/ransom-note/)                                                           | 哈希表、计数       |   [Go](https://github.com/Ksloveyuan/leetcode/blob/main/383_go.md)    |
+| [393. UTF-8 编码验证](https://leetcode-cn.com/problems/utf-8-validation/)                                              | 模拟               |   [Go](https://github.com/Ksloveyuan/leetcode/blob/main/393_go.md)    |
 | [397. 整数替换](https://leetcode-cn.com/problems/integer-replacement/)                                                 | 回溯、记忆化搜索   |   [Go](https://github.com/Ksloveyuan/leetcode/blob/main/397_go.md)    |
 | [419. 甲板上的战舰](https://leetcode-cn.com/problems/battleships-in-a-board/)                                          | DFS、扫描          |   [Go](https://github.com/Ksloveyuan/leetcode/blob/main/419_go.md)    |
 | [430. 扁平化多级双向链表](https://leetcode-cn.com/problems/flatten-a-multilevel-doubly-linked-list/)                   | 链表               |   [Go](https://github.com/Ksloveyuan/leetcode/blob/main/430_go.md)    |
